@@ -1,0 +1,66 @@
+.products{
+    background: rgba(11, 172, 145, 0.856);
+}
+.quantity{
+    background: rgb(185, 119, 119);
+}
+
+.employee{
+    background: #96c996a9;
+}
+
+.active-employee{
+    background: rgba(95, 114, 179, 0.609);
+}
+.customer{
+    background: rgba(102, 51, 153, 0.678);
+}
+
+.sale{
+    background: rgba(103, 119, 129, 0.378);
+}
+
+.totalsale {
+    background: rgba(187, 108, 44, 0.685);
+}
+
+.active-product{
+    background: rgba(96, 167, 29, 0.507);
+}
+
+.active-quantity{
+    background: rgba(49, 17, 17, 0.452);
+
+}
+
+.emp-task{
+    background: rgba(70, 109, 153, 0.507);
+}
+
+.emp_num_product{
+    background: rgba(98, 62, 182, 0.507);
+}
+
+.emp_sold_quantity{
+    background: rgba(223, 117, 117, 0.507);
+}
+.emp_left_quantity{
+    background: rgba(207, 80, 21, 0.507);
+}
+
+.emp_total_target_price{
+    background: rgba(114, 168, 13, 0.507);
+}
+.emp_total_sold_price{
+    background: rgba(70, 114, 88, 0.507);
+}
+.emp_remaining_target_price{
+    background: rgba(1, 7, 17, 0.507);
+}
+.emp_Grand_Total_Quantity{
+    background: rgba(167, 18, 18, 0.507);
+}
+
+.emp_grand_price{
+    background: rgba(82, 15, 37, 0.507);
+}

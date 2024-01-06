@@ -1,0 +1,64 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+
+  .main-background{
+    background: #EFEFEF;
+  }
+
+  .table-header{
+    background-color:#A1A6CE ;
+  }
+
+  .add-btn{
+    background: #8c92c5ca;
+    color: rgb(255, 255, 255);
+  }
+
+  .title{
+    color: #4d4dafda;
+  }
+
+  .invoice{
+    color: #6e2bdada;
+
+  }
+
+  .change-password{
+    background: #7f80b6b4;
+    color: rgb(255, 255, 255);
+  }
+  .change-password:hover{
+    background: #7aaca5b4;
+  }
+
+  .search-button{
+    background: #374592b4;
+
+  }
+  .search-button:hover{
+    background: #87d3b6b4;
+
+  }
+
+  .add-icon{
+      color: rgb(255, 255, 255);
+  }
+
+
+/* .scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+} */
+
